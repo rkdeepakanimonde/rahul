@@ -1,0 +1,98 @@
+ *{margin: 0;
+padding: 0;    
+
+}
+
+body{
+    background-color:#f2f2f2;
+    height: 1125px;
+
+}
+
+.blueheader{
+    position: absolute;
+    height: 50px;
+    width: 10%;
+    background-color: #3cb1e6;
+  
+  }
+
+.sidebar{
+    position: absolute;
+    height: 1125px;
+    width: 10%;
+    background-color: #343531;
+    z-index:-1;
+  }
+
+.header{
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    background-color: #d8d8d8;
+    float:left;
+    z-index:-1;
+}
+
+/*li{
+   margin-left: 20px;
+    margin-top: 20px;
+  
+    
+}
+ul{
+    list-style-type: none;
+    padding-top:70px;
+    
+    
+}*/
+
+
+.side-nav{
+    padding-top:70px;
+    border: 1px red solid;
+}
+
+.user{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px red solid;
+}
+
+.events{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px red solid;
+}
+
+.todo{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px red solid;
+}
+
+.scheduler{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px red solid;
+}
+
+.progress{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px red solid;
+}
+
+.search{
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 1px red solid;
+}
+
+.userbox{
+   background-color: aqua;
+}
+
+hr{
+    width:100px;
+}

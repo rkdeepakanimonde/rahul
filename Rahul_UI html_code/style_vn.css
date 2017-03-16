@@ -1,0 +1,129 @@
+ *{margin: 0;
+padding: 0;    
+
+}
+
+body{
+    background-color:#f2f2f2;
+    height: 1125px;
+
+}
+
+.blueheader{
+    position: absolute;
+    height: 50px;
+    width: 10%;
+    background-color: #3cb1e6;
+  
+  }
+
+.sidebar{
+    position: absolute;
+    height: 1125px;
+    width: 10%;
+    background-color: #343531;
+    z-index:-1;
+  }
+
+.header{
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    background-color: #d8d8d8;
+    float:left;
+    z-index:-1;
+}
+
+/*li{
+   margin-left: 20px;
+    margin-top: 20px;
+  
+    
+}
+ul{
+    list-style-type: none;
+    padding-top:70px;
+    
+    
+}*/
+
+
+.side-nav{
+    padding-top:70px;
+    
+}
+
+.user{
+    margin-left: 20px;
+    margin-top: 20px;
+   
+}
+
+.events{
+    margin-left: 20px;
+    margin-top: 20px;
+   
+}
+
+.todo{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+
+.scheduler{
+    margin-left: 20px;
+    margin-top: 20px;
+   
+}
+
+.progress{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+    
+}
+
+.search{
+    margin-left: 20px;
+    margin-top: 20px;
+   
+}
+
+ 
+.userbox{
+      width: 10%;
+      background-color: #12c472;
+} 
+
+.eventsbox{
+      width: 10%;
+      background-color: yellow;
+} 
+.todobox{
+      width: 10%;
+      background-color: #967ee8;
+} 
+
+.schedulerbox{
+      width: 10%;
+      background-color: #ff78ff;
+}
+
+.progressbox{
+      width: 10%;
+      background-color: #eb886b;
+}
+
+.searchbox{
+      width: 9.99%;
+      background-color: #59a356;
+}
+
+div searchbox.active {
+    background-color: #4CAF50;
+    color: white;
+}
+.side-nav div:hover {
+    background-color: coral;
+}
