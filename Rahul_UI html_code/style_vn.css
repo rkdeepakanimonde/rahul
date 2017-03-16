@@ -127,3 +127,7 @@ div searchbox.active {
 .side-nav div:hover {
     background-color: coral;
 }
+
+.body{
+    float: right;
+}
