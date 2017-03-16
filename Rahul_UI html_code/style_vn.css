@@ -93,41 +93,35 @@ ul{
  
 .userbox{
       width: 10%;
-      background-color: #12c472;
+      background-color:#343531;
 } 
 
 .eventsbox{
       width: 10%;
-      background-color: yellow;
+      background-color:#343531;
 } 
 .todobox{
       width: 10%;
-      background-color: #967ee8;
+      background-color: #343531;
 } 
 
 .schedulerbox{
       width: 10%;
-      background-color: #ff78ff;
+      background-color: #343531;
 }
 
 .progressbox{
       width: 10%;
-      background-color: #eb886b;
+      background-color: #343531;
 }
 
 .searchbox{
       width: 9.99%;
-      background-color: #59a356;
+      background-color: #343531;
 }
 
-div searchbox.active {
-    background-color: #4CAF50;
-    color: white;
-}
+
 .side-nav div:hover {
-    background-color: coral;
+    background-color: #f2f2f2;
 }
 
-.body{
-    float: right;
-}
